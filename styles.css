@@ -58,3 +58,8 @@ header form .form-button {
     display: inline;
     float: left;
 }
+
+#wrapper{
+    width: 70%;
+    margin: 0 auto;
+}
