@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+
+}
+
+.side-videos{
+    border: solid 1px red;
+    margin: 8px;
+}
+.inner-side-videos{
+    padding-top: 24px;
+    padding-right: 24px;
+}
+.header-section{
+    margin-bottom: 16px;
+}
+.video-section{
+    margin-left: 16px;
+}
+.container{
+    display: inline;
+}
