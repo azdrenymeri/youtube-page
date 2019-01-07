@@ -48,6 +48,11 @@ header form button {
 
 .video-section{
     margin-left: 16px;
+    display: inline-block;
+    width: 70%;
+}
+.side-video{
+    display: inline-block;
 }
 .container{
     display: inline;
