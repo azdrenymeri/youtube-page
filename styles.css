@@ -8,7 +8,8 @@ body{
 }
 .inner-side-videos{
     padding-top: 24px;
-    padding-right: 24px;
+    padding-right: 50px;
+    margin-right: 20px;
 }
 .header-section{
     margin-bottom: 16px;
@@ -48,12 +49,18 @@ header form button {
 
 .video-section{
     margin-left: 16px;
+<<<<<<< HEAD
     display: inline-block;
     width: 70%;
 }
 .side-video{
     display: inline-block;
+=======
+    display: inline;
+    float: left;
+>>>>>>> 0627611f124d94d620e1b9a124cd05a46678b323
 }
 .container{
     display: inline;
+    float: right;
 }
