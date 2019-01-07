@@ -2,6 +2,14 @@ body{
     margin: 0;
     padding: 0;
 }
+p{
+    margin: 0;
+    margin-left: 16px;
+}
+ul {
+    padding-inline-start: 10px;
+}
+
 .side-videos{
     border: solid 1px red;
     margin: 1px;
@@ -86,7 +94,7 @@ header form .form-button {
 }
 .video1{
     display:flex;
-    align-items: center;
+    align-items: flex-start;
 }
 .video2{
     display:flex;
@@ -102,9 +110,14 @@ header form .form-button {
     flex-direction: row;
 }
 
-ul{
-    padding-inline-start: 10px;
+.suggest-video-title {
+   font-size: 16px;
 }
+.suggest-video-subtext{
+    color: #606060;
+}
+
+/*  Comment Section  */
 
 #comments{
 
