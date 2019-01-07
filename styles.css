@@ -11,6 +11,23 @@ body{
     padding-right: 50px;
     margin-right: 20px;
 }
+.right-header-icons {
+    float: right;
+    margin-top: 16px;
+    margin-right: 18px;
+}
+.right-icon{
+    display: inline-block;
+}
+.left-header-icons {
+    float: left;
+    padding: 8px;
+}
+.header-icon{
+    margin-left: 18px;
+    margin-top: 16px;
+}
+
 .header-section{
     margin-bottom: 16px;
     position: relative;
@@ -46,6 +63,7 @@ header form .form-button {
     background-color: #f8f8ff;
     color: #7f8c8d;
 }
+
 
 .video-section{
     margin-left: 16px;
