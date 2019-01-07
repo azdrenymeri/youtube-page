@@ -52,9 +52,9 @@ header form .form-button {
 }
 .side-video{
     display: inline;
-    float: left;
+    float: right;
 }
 .container{
     display: inline;
-    float: right;
+    float: left;
 }
