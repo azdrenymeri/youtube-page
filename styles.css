@@ -49,16 +49,10 @@ header form button {
 
 .video-section{
     margin-left: 16px;
-<<<<<<< HEAD
-    display: inline-block;
-    width: 70%;
 }
 .side-video{
-    display: inline-block;
-=======
     display: inline;
     float: left;
->>>>>>> 0627611f124d94d620e1b9a124cd05a46678b323
 }
 .container{
     display: inline;
