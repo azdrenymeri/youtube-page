@@ -29,9 +29,11 @@ aside{
     width:33%;
     display: block;
 }
+
 /* Suggested Video Section */
 .side-videos{
     margin: 1px;
+    margin-right: 7%;
     
 }
 .inner-side-videos{
@@ -164,6 +166,9 @@ header form .form-button {
     color: #606060;
     margin-left: 16px;
 }
+.video-flex{
+    margin-right: 32px;
+}
 
 /*  Comment Section  */
 
@@ -172,4 +177,9 @@ header form .form-button {
 }
 .comments-title{
     margin-top:50px;
+}
+
+/* Main Container Section */
+.main-container{
+
 }
