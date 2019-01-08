@@ -20,6 +20,15 @@ hr{
     margin-top: 16px;
 }
 
+section{
+    float:left;
+    display:block;
+}
+aside{
+    float:right;
+    width:33%;
+    display: block;
+}
 /* Suggested Video Section */
 .side-videos{
     margin: 1px;
@@ -101,16 +110,14 @@ header form .form-button {
 .video-section{
     margin-left: 4%;
     border-left: 4%;
+    
 }
 .side-video{
     display: inline;
     float: right;
 }
-.container{
-    display: inline;
-    padding-right:20px;
-    float: left;
-}
+
+
 
 #wrapper{
     width: 90%;
