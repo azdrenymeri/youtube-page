@@ -54,6 +54,14 @@ p,.up-next-video{
     margin-bottom: 16px;
     opacity: 0.55;
 }
+.horizontal-line2{
+    background-color: #7f8c8d;
+    width: 100%;
+    height: 1px;
+    margin-top: 16px;
+    margin-bottom: 40px;
+    opacity: 0.55;
+}
 
 /* Header Section */
 .right-header-icons {
@@ -193,4 +201,8 @@ header form .form-button {
 }
 .dimmer-text{
     color: #7f8c8d;
+}
+input {
+    border: none;
+    background: transparent;
 }
