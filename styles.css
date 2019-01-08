@@ -96,14 +96,13 @@ header form .form-button {
     display:flex;
     align-items: flex-start;
 }
-.video2{
+.comments{
     display:flex;
     align-items: center;
+    margin-top:2%;
+    
 }
-.video3{
-    display:flex;
-    align-items: center;
-}
+
 
 .videoflex{
     
@@ -119,7 +118,9 @@ header form .form-button {
 
 /*  Comment Section  */
 
-#comments{
-
-    margin-top:10%;
+.comment-photo{
+    margin-right: 16px;
+}
+.comments-title{
+    margin-top:50px;
 }
