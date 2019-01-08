@@ -30,6 +30,7 @@ aside{
     display: block;
 }
 
+
 /* Suggested Video Section */
 .side-videos{
     margin: 1px;
@@ -178,8 +179,18 @@ header form .form-button {
 .comments-title{
     margin-top:50px;
 }
-
+.comment-react-tem{
+    display: inline-block;
+    margin-top: 16px;
+    margin-right: 6px;
+}
+.view-more-comments{
+    margin-top: 16px;
+}
 /* Main Container Section */
 .main-container{
 
+}
+.dimmer-text{
+    color: #7f8c8d;
 }
