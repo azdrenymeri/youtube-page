@@ -7,10 +7,7 @@ body{
     height: 100%;
     width: 100%;
 }
-p{
-    margin: 0;
-    margin-left: 16px;
-}
+
 
 hr{
     color: #7f8c8d;
@@ -96,17 +93,7 @@ p,.up-next-video{
     vertical-align: bottom;
     margin-top:16px;
     margin-left:32px;
-    /* position: absolute;
-    left: 0;
-    right:0;
-    width: 10%;
-    border: 3px solid #73AD21;
-    padding: 10px;
-    text-align: center;
-    margin: auto; 
-  width: 50%;
-  border: 3px solid green;
-  padding: 10px; */
+    
 }
 
 .header-section form input {
